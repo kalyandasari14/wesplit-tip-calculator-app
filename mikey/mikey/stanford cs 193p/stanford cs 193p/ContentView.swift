@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  kalayn
+//  stanford cs 193p
 //
-//  Created by kalyan on 1/23/26.
+//  Created by kalyan on 2/2/26.
 //
 
 import SwiftUI
